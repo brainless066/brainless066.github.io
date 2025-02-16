@@ -1,10 +1,10 @@
 ---
 layout: "post"
-title: "Free Topic"
+title: "Favorite Book"
 date: 2025-01-10 11:11:11 +/-0900
-categories: Free
-tags: free
-excerpt: "Feel free to discuss any topic you want."
+categories: Favorite
+tags: book
+excerpt: "Share your favorite books"
 # author: Anonymous
 ---
 

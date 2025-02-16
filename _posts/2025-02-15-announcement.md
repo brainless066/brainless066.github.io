@@ -4,6 +4,7 @@ title: "Warning"
 date: 2025-02-15 11:11:11 +/-0900
 categories: Notice
 tags: notice
+excerpt: "Please read before posting."
 # author: Anonymous
 ---
 <h2>Notice</h2>
